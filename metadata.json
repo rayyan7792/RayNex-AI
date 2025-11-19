@@ -1,0 +1,8 @@
+{
+  "name": "Raynex AI",
+  "description": "A next-generation AI assistant with multimodal capabilities, language adaptation, and image generation features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
